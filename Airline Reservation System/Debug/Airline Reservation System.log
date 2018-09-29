@@ -1,0 +1,6 @@
+﻿  Airline Reservation System.cpp
+c:\users\hayat\desktop\assign2\airline reservation system\airline.h(76): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Database.cpp
+c:\users\hayat\desktop\assign2\airline reservation system\airline.h(76): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Generating Code...
+  Airline Reservation System.vcxproj -> C:\Users\hayat\Desktop\Assign2\Debug\Airline Reservation System.exe
